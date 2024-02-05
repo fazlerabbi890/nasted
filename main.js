@@ -30,3 +30,7 @@ if (orangePrice > 50 || applePrice > 20){
 else{
     console.log("ami apple & orange kinbo na")
 }
+
+
+
+
